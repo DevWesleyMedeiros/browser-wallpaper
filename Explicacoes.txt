@@ -1,0 +1,5 @@
+palco.offsetWidth - capta o tamanho do cumprimento da tela
+palco.offsetHeight - capta o tamanho da altura da tela
+Ambos são atributos que se ligam a algo
+Nesse caso, palco é uma div de width: 100%; e heigth: 100vh com content fill-available
+Logo quando eu redimensiono a minha janela tanto am altura quanto em largura, eu vou obter valores diferentes
