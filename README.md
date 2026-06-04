@@ -32,6 +32,6 @@ Um projeto prático e visualmente agradável de bolas coloridas que quicam na te
 1. **Clone o repositório**
 
    ```bash
-   git clone https://github.com/wesleymartins15/projeto-pratico-com-classes.git
-   cd projeto-pratico-com-classes
+   git clone https://github.com/wesleymartins15/browser-wallpaper.git
+   cd browser-wallpaper
    ```
